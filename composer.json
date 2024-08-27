@@ -1,0 +1,15 @@
+{
+    "name": "meuapp/meuapp",
+    "description": "A short description of your project.",
+    "version": "1.0.0",
+    "require": {
+        "mongodb/mongodb": "^1.19",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Meuapp\\Meuapp\\": "src/"
+        }
+    },
+    "license": "proprietary"
+}
