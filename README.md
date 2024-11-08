@@ -1,3 +1,13 @@
+# IMPORTANTE
+## Créditos
+
+Esse projeto é feito pelo [Wagner](https://github.com/wagner333/), estamos fazendo alterações dele para a criação do OpenMessage da Hsyst Org.
+Agradecemos pelo Wagner pelo seu esforço e dedicação pela criação desse projeto, e por isso, é importante deixar claro sobre as pessoas que realmente fizeram a coisa acontecer!
+
+#OpenSource!!
+
+---
+
 # Fórum Online (Estilo 4chan e Reddit)
 
 Este projeto é um fórum online inspirado em plataformas como 4chan e Reddit, projetado para permitir discussões públicas, bate-papos privados e interação social entre usuários. O fórum inclui funcionalidades como fóruns públicos, perfis de usuário, sistema de seguir e chat privado.
